@@ -1,0 +1,8 @@
+﻿  rcc QtLearnOpencv3.qrc
+   RCC: Warning: No resources in 'E:\c++\StudyQtAndOpencv\QtLearnOpencv3\QtLearnOpencv3\QtLearnOpencv3.qrc'.
+  ClOpencvAndQt.cpp
+  QtLearnOpencv3.cpp
+  main.cpp
+  moc_QtLearnOpencv3.cpp
+  qrc_QtLearnOpencv3.cpp
+  QtLearnOpencv3.vcxproj -> E:\c++\StudyQtAndOpencv\QtLearnOpencv3\x64\Debug\QtLearnOpencv3.exe
